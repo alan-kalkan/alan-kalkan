@@ -1,4 +1,5 @@
 ### Hi there 👋
+![logoGitHub](https://github.com/alan-kalkan/alan-kalkan/assets/123973245/ea1c5aa8-3369-45ef-922d-41f197eee8cb)
 
 <!--
 **alan-kalkan/alan-kalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
