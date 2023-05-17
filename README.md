@@ -1,40 +1,37 @@
-# [Votre nom]
+# Alan Kalkan
 
-[Courte phrase d'introduction, par exemple : Étudiant passionné de programmation à la recherche d'une alternance]
+Je m'appelle Alan et je suis ravi de vous accueillir sur mon profil GitHub. Je suis une personne créative, curieuse et extravertie, constamment en quête de nouvelles découvertes et d'opportunités stimulantes.
+
+Passionné par le monde de la programmation, je suis constamment inspiré par les possibilités infinies qu'offre la technologie. J'aime explorer de nouveaux langages, frameworks et concepts, et j'ai un intérêt particulier pour les projets innovants qui repoussent les limites de la créativité et de l'ingéniosité.
+
+En plus de ma passion pour le développement, j'apprécie également le travail en équipe et la collaboration. J'adore partager mes idées, apprendre des autres et participer à des projets où l'échange d'expertise et la co-création sont valorisés.
+
+Mon objectif est de trouver une alternance qui me permettra de mettre à profit ma créativité, ma curiosité et mon énergie extravertie. Je suis convaincu que ma combinaison unique de compétences techniques et de qualités personnelles peut apporter une véritable valeur ajoutée à une équipe dynamique et innovante.
+
+N'hésitez pas à explorer mon profil et à me contacter si vous souhaitez en savoir plus sur mes projets, mes compétences ou si vous avez des opportunités d'alternance intéressantes à partager.
+
+
 
 ## Compétences techniques
 
-- [Langages de programmation]
-- [Frameworks ou outils]
-- [Domaines de spécialisation]
+- Html, CSS, Javascript
+- ReactJS
 
 ## Projets réalisés
 
-- [Nom du projet 1] : [Description du projet et des technologies utilisées]
-- [Nom du projet 2] : [Description du projet et des technologies utilisées]
-- [Nom du projet 3] : [Description du projet et des technologies utilisées]
+- RabbitFall : Création d'un jeu sur pico-8 en LUA, avec beaucoup de contraintes
+- Dataviz : Site permettant d'afficher la météo dynamiquement. Réalisé entièrement en Javascript
+- Extension Web: Gestionnaire de temps inspiré de la méthode pomodoro.
 
 ## Formation académique
 
-- [Diplôme préparé] à [Nom de l'établissement]
-- [Cours ou spécialisations pertinents]
-
-## Expérience professionnelle
-
-- [Nom de l'entreprise] : [Description des responsabilités et des compétences acquises]
-
-## Autres compétences et qualités
-
-- [Compétence 1] : [Description de la compétence]
-- [Compétence 2] : [Description de la compétence]
-- [Qualité 1] : [Description de la qualité]
+- Développeur d'application Web à Ada Tech School
 
 ## Objectif de l'alternance
 
-[Exprimez votre intérêt pour l'alternance et mentionnez vos motivations spécifiques, par exemple : Je souhaite mettre mes compétences techniques en pratique, acquérir une expérience professionnelle solide et contribuer à des projets concrets au sein d'une entreprise dynamique.]
+Mon intérêt pour la programmation a été éveillé par ma curiosité insatiable et ma volonté constante de repousser les limites de la créativité. Je suis fasciné par le pouvoir des lignes de code pour créer des solutions innovantes, des applications intuitives et des expériences utilisateur engageantes. Participer à une alternance me permettrait d'approfondir mes connaissances techniques, d'explorer de nouvelles technologies et de contribuer à des projets concrets.
 
 ## Contact
 
-- Adresse e-mail : [Votre adresse e-mail]
-- Numéro de téléphone : [Votre numéro de téléphone]
-- LinkedIn : [Votre profil LinkedIn]
+- Adresse e-mail : alan0613@live.fr
+- LinkedIn : https://www.linkedin.com/in/alan-kalkan/
