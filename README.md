@@ -19,9 +19,10 @@ N'hésitez pas à explorer mon profil et à me contacter si vous souhaitez en sa
 
 ## Projets réalisés
 
-- RabbitFall : Création d'un jeu sur pico-8 en LUA, avec beaucoup de contraintes
-- Dataviz : Site permettant d'afficher la météo dynamiquement. Réalisé entièrement en Javascript
+- BMI Calculator
+- API Weather : Site permettant d'afficher la météo dynamiquement. Réalisé entièrement en Javascript
 - Extension Web: Gestionnaire de temps inspiré de la méthode pomodoro.
+- Blog
 
 ## Formation académique
 
@@ -33,5 +34,5 @@ Mon intérêt pour la programmation a été éveillé par ma curiosité insatiab
 
 ## Contact
 
-- Adresse e-mail : alan0613@live.fr
+- Adresse e-mail : alan.kalkan06@outlook.com
 - LinkedIn : https://www.linkedin.com/in/alan-kalkan/
