@@ -17,13 +17,6 @@ N'hésitez pas à explorer mon profil et à me contacter si vous souhaitez en sa
 - Html, CSS, Javascript
 - ReactJS
 
-## Projets réalisés
-
-- BMI Calculator
-- API Weather : Site permettant d'afficher la météo dynamiquement. Réalisé entièrement en Javascript
-- Extension Web: Gestionnaire de temps inspiré de la méthode pomodoro.
-- Blog
-
 ## Formation académique
 
 - Développeur d'application Web à Ada Tech School
