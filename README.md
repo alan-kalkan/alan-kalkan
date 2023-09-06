@@ -23,5 +23,5 @@ N'hésitez pas à explorer mon profil et à me contacter si vous souhaitez en sa
 
 ## Contact
 
-- Adresse e-mail : alan.kalkan06@outlook.com
+- Adresse e-mail : alan.kalkan@outlook.com
 - LinkedIn : https://www.linkedin.com/in/alan-kalkan/
