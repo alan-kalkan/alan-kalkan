@@ -21,10 +21,6 @@ N'hésitez pas à explorer mon profil et à me contacter si vous souhaitez en sa
 
 - Développeur d'application Web à Ada Tech School
 
-## Objectif de l'alternance
-
-Mon intérêt pour la programmation a été éveillé par ma curiosité insatiable et ma volonté constante de repousser les limites de la créativité. Je suis fasciné par le pouvoir des lignes de code pour créer des solutions innovantes, des applications intuitives et des expériences utilisateur engageantes. Participer à une alternance me permettrait d'approfondir mes connaissances techniques, d'explorer de nouvelles technologies et de contribuer à des projets concrets.
-
 ## Contact
 
 - Adresse e-mail : alan.kalkan06@outlook.com
