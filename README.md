@@ -6,7 +6,7 @@ Passionné par le monde de la programmation, je suis constamment inspiré par le
 
 En plus de ma passion pour le développement, j'apprécie également le travail en équipe et la collaboration. J'adore partager mes idées, apprendre des autres et participer à des projets où l'échange d'expertise et la co-création sont valorisés.
 
-Mon objectif est de trouver une alternance qui me permettra de mettre à profit ma créativité, ma curiosité et mon énergie extravertie. Je suis convaincu que ma combinaison unique de compétences techniques et de qualités personnelles peut apporter une véritable valeur ajoutée à une équipe dynamique et innovante.
+Mon objectif est de trouver une alternance qui me permettra de mettre à profit ma créativité, ma curiosité et mon énergie. Je suis convaincu que ma combinaison unique de compétences techniques et de qualités personnelles peut apporter une véritable valeur ajoutée à une équipe dynamique et innovante.
 
 N'hésitez pas à explorer mon profil et à me contacter si vous souhaitez en savoir plus sur mes projets, mes compétences ou si vous avez des opportunités d'alternance intéressantes à partager.
 
