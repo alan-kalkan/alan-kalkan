@@ -23,4 +23,3 @@ I’m constantly exploring new technologies and best practices to deliver impact
 
 📫 Let’s Connect
 	•	LinkedIn: linkedin.com/in/alan-kalkan
-	•	Portfolio: github.com/alan-kalkan
